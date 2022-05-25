@@ -1,2 +1,2 @@
-# Logistic-Regression
+# Decision Tree
 Rain in Australia
